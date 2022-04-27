@@ -37,4 +37,4 @@ router.post('/', async (req, res) => {
     res.json(req.decoded);
   });
 
-  module.exports = router;
+  module.exports = router;         
